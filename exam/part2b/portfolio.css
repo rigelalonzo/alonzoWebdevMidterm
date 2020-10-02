@@ -19,7 +19,7 @@ body {
 	align-items: center;
 	font-family: 'Source Code Pro', monospace;
 	background: linear-gradient(90deg, rgba(50,149, 197, .78), rgba(233, 68, 62, .85)),
-				url(https://i.postimg.cc/Jhnsv7pG/lgd.jpg) center bottom;
+				url(lgd.jpg) center bottom;
 	background-size: cover;
 	color: #fff;
 }
